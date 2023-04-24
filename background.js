@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(function() {
     chrome.contextMenus.create({
         id: "1",
-        title: "Find \『%s\』 on Jisho",
+        title: "Find \『%s\』 in Jisho",
         contexts: ["selection"],
 
     });
