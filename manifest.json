@@ -1,0 +1,17 @@
+{
+    "name": "JishoSearch",
+    "description": "Convenient search for japanese sentences and kanji within jisho.org",
+    "author": "kirog11az@gmail.com",
+    "icons": {
+        "16": "images/kanji-16.png",
+        "32": "images/kanji-32.png",
+        "128": "images/kanji-128.png"
+    },
+
+    "version": "1.0.1",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["contextMenus"]
+}

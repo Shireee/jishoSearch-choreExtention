@@ -1,0 +1,1 @@
+Chrome extension for convenient searching japanese kanji and sentences within jisho.org
